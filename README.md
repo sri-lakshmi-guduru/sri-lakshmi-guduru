@@ -1,10 +1,10 @@
 # Hi, I'm Sri Lakshmi Guduru 👋
 
-### Data Scientist | Machine Learning Engineer | Generative AI & NLP
+### AI/ML Engineer | Generative AI • RAG • NLP • LLM Evaluation
 
-I build practical AI and machine learning solutions using **Python, LLMs, RAG, NLP, vector databases, and cloud technologies**.
+I build production-oriented AI and machine learning applications using **Python, LLMs, RAG, NLP, vector databases, and cloud technologies**.
 
-My current focus is on developing production-oriented **Generative AI applications**, including retrieval-augmented generation systems, semantic search, evaluation pipelines, and responsible AI workflows.
+Currently focused on **Generative AI, Retrieval-Augmented Generation, LLM evaluation, semantic search, and Agentic AI**.
 
 ## 🚀 Featured Projects
 
