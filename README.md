@@ -52,5 +52,5 @@ Personal portfolio showcasing my AI, machine learning, and data science projects
 ## 📫 Connect With Me
 
 * GitHub: **sri-lakshmi-guduru**
-* LinkedIn: Add your LinkedIn URL
-* Portfolio: Add your portfolio URL
+* LinkedIn: https://www.linkedin.com/in/lakshmi-g11/
+* Portfolio: https://portfolio-sri-lakshmi2.vercel.app/
